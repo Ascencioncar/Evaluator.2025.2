@@ -1,5 +1,8 @@
 namespace Evaluator.UI.Windows
 {
+    using System;
+    using System.Windows.Forms;
+
     internal static class Program
     {
         /// <summary>
